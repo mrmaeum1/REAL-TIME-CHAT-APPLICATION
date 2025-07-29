@@ -4,9 +4,9 @@
 
 - **Company:** CODTECH IT Solutions  
 
-- **Name:** Bowrothu Tarun  
+- **Name:** DOMA BALA SUNDARAM
 
-- **Intern ID:** :CT04DG100
+- **Intern ID:** :CT04DH2304
 
 - **Domain:** Front-End Development  
 
